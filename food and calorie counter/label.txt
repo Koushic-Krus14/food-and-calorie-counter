@@ -1,0 +1,14 @@
+0 chicken_razala
+1 imarti
+2 jalebi
+3 Kachori
+4 Kadai_Paneer
+5 Kadhi_Pakoda
+6 Kajjjkaya
+7 Kakhinada_Kajha
+8 kalakhand
+9 Karela_Bharta
+10 Kofta
+11 Paniyaram
+12 Lazhi
+13 Ledi_Keni
